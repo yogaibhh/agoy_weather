@@ -50,6 +50,8 @@ Here's a README template in English that you can use for your project:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/67ca349b-e9aa-4c25-b1b9-bcae5fa6d8e0)
-![image](https://github.com/user-attachments/assets/e1f2b7ce-986a-40e0-b32f-99c28de977c0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67ca349b-e9aa-4c25-b1b9-bcae5fa6d8e0" alt="Home Screen" width="300" />
+  <img src="https://github.com/user-attachments/assets/e1f2b7ce-986a-40e0-b32f-99c28de977c0" alt="Favorites Screen" width="300" />
+</p>
 
