@@ -1,6 +1,3 @@
-Here's a README template in English that you can use for your project:
-
----
 
 # Agoy Weather
 
